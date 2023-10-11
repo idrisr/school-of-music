@@ -1,0 +1,7 @@
+source-repository-package
+    type: git
+    location: https://github.com/idrisr/Euterpea2
+    tag: 6b409651ee4dd325f7f79a8779e31d6f98542480
+
+packages: 01
+packages: 02
